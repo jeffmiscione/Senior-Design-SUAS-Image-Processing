@@ -15,7 +15,7 @@ colornames is used by determineColors
 tree:
 ===========
 analyzeFolder
-	imageProcessing
-		findTarget
-		determineColors
-			colornames
+     imageProcessing
+          findTarget
+	       determineColors
+	            colornames
