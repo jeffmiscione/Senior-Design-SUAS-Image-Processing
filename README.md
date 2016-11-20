@@ -12,10 +12,14 @@ determineColors determines the colors of the target shape and alphanumeric
 colornames is used by determineColors
 
 
-tree:
+Process Tree:
 ===========
 analyzeFolder
+
      imageProcessing
+     
           findTarget
+	  
 	       determineColors
+	       
 	            colornames
